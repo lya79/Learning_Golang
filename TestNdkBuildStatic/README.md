@@ -2,7 +2,7 @@
 
 
 
-此範例用來示範T產生可供 Android調用的函式庫, 藉由 Golang調用 C.
+此範例用來示範產生可供 Android調用的函式庫, 藉由 Golang調用 C.
 
 
 
