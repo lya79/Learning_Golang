@@ -84,7 +84,7 @@
 
 4. 進入FromNDK目錄編譯 .h .c, 會產生 libs目錄與 obj目錄並且底下也會產生相關檔案
 
-    ```ndk-build NDK_PROJECT_PATH=. NDK_APPLICATION_MK=Application.mk```
+    ```$ ndk-build NDK_PROJECT_PATH=. NDK_APPLICATION_MK=Application.mk```
 
     >  **Note:** 如果顯示 exec: "gcc": executable file not found in %PATH%等相關錯誤請參考下列網址除錯
 
@@ -94,6 +94,6 @@
 
 5. 包裝 .aar
 
-    ```gomobile bind -target=android/arm TestNdkBuildStatic```
+    ```$ gomobile bind -target=android/arm TestNdkBuildStatic```
 
 6. 最後最上層的 .aar .so .h可供 Android使用
