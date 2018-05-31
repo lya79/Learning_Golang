@@ -23,8 +23,9 @@
  - RPC使用
 
 # 函式庫調用
- - 包裝 aar/Android調用 .aar
- - 包裝 .so/調用 .so
+- [包裝 aar/Android調用 .aar](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
+
+- [包裝 .so/調用 .so](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
 
 # 資料庫
  - SQLite使用
