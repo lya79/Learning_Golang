@@ -97,3 +97,12 @@
     ```$ gomobile bind -target=android/arm TestNdkBuildStatic```
 
 6. 最後最上層的 .aar .so .h可供 Android使用
+
+
+
+# 參考
+- https://blog.golang.org/c-go-cgo
+- https://golang.org/cmd/cgo/#hdr-Go_references_to_C
+- https://github.com/golang/go/wiki/cgo
+- http://lib.csdn.net/article/go/33766
+- https://stackoverflow.com/questions/37157379/passing-function-pointer-to-the-c-code-using-cgo
