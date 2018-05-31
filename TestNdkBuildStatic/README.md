@@ -78,11 +78,11 @@
 
 # 包裝 .so檔案與 .aar提供給 Android調用
 
-1. 編寫 .h .c
+- 編寫 .h .c
 
-2. 修改包裝設定檔案(android.mk、application.mk)
+- 修改包裝設定檔案(android.mk、application.mk)
 
-4. 進入FromNDK目錄編譯 .h .c, 會產生 libs目錄與 obj目錄並且底下也會產生相關檔案
+- 進入FromNDK目錄編譯 .h .c, 會產生 libs目錄與 obj目錄並且底下也會產生相關檔案
 
     ```$ ndk-build NDK_PROJECT_PATH=. NDK_APPLICATION_MK=Application.mk```
 
@@ -90,13 +90,13 @@
 
     https://blog.csdn.net/kingmax54212008/article/details/77188836
 
-4. 複製 From/HelloTestFromNDKBuild.h與 libs/armeabi-v7a/libHelloTestFromNDKBuild.so, 複製至上層
+- 複製 From/HelloTestFromNDKBuild.h與 libs/armeabi-v7a/libHelloTestFromNDKBuild.so, 複製至上層
 
-5. 包裝 .aar
+- 包裝 .aar
 
     ```$ gomobile bind -target=android/arm TestNdkBuildStatic```
 
-6. 最後最上層的 .aar .so .h可供 Android使用
+- 最後最上層的 .aar .so .h可供 Android使用
 
 
 
