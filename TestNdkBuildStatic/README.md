@@ -24,7 +24,7 @@
 
 - 設定 android sdk環境變數(使用者變數)
 
-PATH : ANDROID_HOME | C:\Users\yuan\AppData\Local\Android\Sdk\
+    PATH : ANDROID_HOME | C:\Users\yuan\AppData\Local\Android\Sdk\
 
   
 
@@ -44,7 +44,7 @@ PATH : ANDROID_HOME | C:\Users\yuan\AppData\Local\Android\Sdk\
 
 - 設定GOLANG環境變數
 
-linux
+    linux
 
     ```$ export PATH=$PATH:$GOPATH/bin```
 
@@ -52,13 +52,13 @@ linux
 
 - 初始化工具
 
-linux
+    linux
 
     ```$ gomobile init -v -ndk ~/android-ndk/ndk-bundle/```
 
-or
+    or
 
-windows
+    windows
 
     ```$ gomobile init -v -ndk C:\Users\yuan\AppData\Local\Android\Sdk\ndk-bundle```
 
