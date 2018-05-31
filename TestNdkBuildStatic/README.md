@@ -74,7 +74,7 @@
 
     ```$ gomobile bind -v -target=android```
 
->  **Note:** 命令完成後會再目錄內產生一個 .aar檔案
+    >  **Note:** 命令完成後會再目錄內產生一個 .aar檔案
 
 # 包裝 .so檔案與 .aar提供給 Android調用
 
