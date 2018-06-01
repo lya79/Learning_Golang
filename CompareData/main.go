@@ -27,18 +27,18 @@ func main() {
 	a3.h = human{name: "HUMAN"}
 	a3.id = 1112
 
-	fmt.Println(a1, "==", a2, reflect.DeepEqual(a1, a2))
-	fmt.Println(a1, "==", a3, reflect.DeepEqual(a1, a3))
+	fmt.Println(a1, "==", a2, reflect.DeepEqual(a1, a2)) // {{HUMAN} 111} == {{HUMAN} 111} true
+	fmt.Println(a1, "==", a3, reflect.DeepEqual(a1, a3)) // {{HUMAN} 111} == {{HUMAN} 1112} false
 
 	b1 := []int{1, 2}
 	b2 := []int{1, 2}
 	if reflect.DeepEqual(b1, b2) {
-		fmt.Println(b1, "==", b2)
+		fmt.Println(b1, "==", b2) // [1 2] == [1 2]
 	}
 
 	c1 := map[string]int{"a": 1, "b": 2}
 	c2 := map[string]int{"a": 1, "b": 2}
 	if reflect.DeepEqual(c1, c2) {
-		fmt.Println(c1, "==", c2)
+		fmt.Println(c1, "==", c2) // map[a:1 b:2] == map[a:1 b:2]
 	}
 }
