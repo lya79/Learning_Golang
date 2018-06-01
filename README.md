@@ -2,7 +2,7 @@
 把學習 Golang遇到的問題進行紀錄。
 
 # 常見問題
- - [資料排序問題](sort.interface)(https://github.com/lya79/Learning_Golang/tree/master/SortData)
+ - [資料排序問題(sort)](https://github.com/lya79/Learning_Golang/tree/master/SortData)
  - [多個 struct(包含 map, array, slice)比較內容差異](https://github.com/lya79/Learning_Golang/tree/master/CompareData)
  - [複製 struct(包含 map, array, slice)](https://github.com/lya79/Learning_Golang/tree/master/CopyData)
  - 字串經常異動該如何處理才有效率
