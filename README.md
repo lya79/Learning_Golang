@@ -3,7 +3,7 @@
 
 # 常見問題
  - 資料排序(sort.interface)
- - 多個 struct(包含 map, array, slice)比較內容差異
+ - [多個 struct(包含 map, array, slice)比較內容差異](https://github.com/lya79/Learning_Golang/tree/master/CompareData)
  - [複製 struct(包含 map, array, slice)](https://github.com/lya79/Learning_Golang/tree/master/CopyData)
  - 字串經常異動該如何處理才有效率
  - 映射、型別判斷
