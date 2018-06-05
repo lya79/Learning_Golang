@@ -1,0 +1,1 @@
+android要求 golang執行動作, golang或將動作轉交給 c處理. c處理好後會 callback golang, golang在 callback android.
