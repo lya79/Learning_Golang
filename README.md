@@ -29,6 +29,6 @@
 - [包裝 .so/調用 .so](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
 - [c callback golang, golang在 callback android](https://github.com/lya79/Learning_Golang/tree/master/callbackAndroidGoCFunc)
 - [c與 golang型態轉換問題](http://colobu.com/2016/06/30/dive-into-go-10/)
-- [java golang型態轉換問題](https://yourbasic.org/golang/go-java-tutorial/)
+- [java與 golang型態轉換問題](https://yourbasic.org/golang/go-java-tutorial/)
 # 資料庫
  - SQLite使用
