@@ -38,3 +38,13 @@ Goexit/Gosched/NumCPU/NumGoroutine/GOMAXPROCS
 Mutex/RWMutex(讀寫鎖, 用在讀多於寫的情境)
 
 - https://blog.csdn.net/skh2015java/article/details/60334437
+
+# sync.Once
+
+- http://shanks.leanote.com/post/Untitled-55ca439338f41148cd000759-12
+
+<!-- 
+TODO
+https://golang.org/pkg/sync/
+把裡面還沒用過的在詳細確認
+-->
