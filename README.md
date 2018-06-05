@@ -11,7 +11,7 @@
  - [Goroutine/Mutex相關問題](https://github.com/lya79/Learning_Golang/tree/master/Goroutine%E7%9B%B8%E9%97%9C%E5%95%8F%E9%A1%8C)
  - 單元測試
  - 程式運行 log紀錄
- - List、Map、Set集合
+ - List、Heap、Map、Set
  - 檔案讀寫
  - JSON
  - 程式運行的效率
@@ -28,5 +28,7 @@
 - [包裝 aar/Android調用 .aar](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
 - [包裝 .so/調用 .so](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
 - [c callback golang, golang在 callback android](https://github.com/lya79/Learning_Golang/tree/master/callbackAndroidGoCFunc)
+- [c與 golang型態轉換問題](http://colobu.com/2016/06/30/dive-into-go-10/)
+- [java golang型態轉換問題](https://yourbasic.org/golang/go-java-tutorial/)
 # 資料庫
  - SQLite使用
