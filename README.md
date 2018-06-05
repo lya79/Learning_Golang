@@ -27,5 +27,6 @@
 # 函式庫調用
 - [包裝 aar/Android調用 .aar](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
 - [包裝 .so/調用 .so](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
+- [c callback golang, golang在 callback android](https://github.com/lya79/Learning_Golang/tree/master/callbackAndroidGoCFunc)
 # 資料庫
  - SQLite使用
