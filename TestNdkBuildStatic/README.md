@@ -98,11 +98,19 @@
 
 - 最後最上層的 .aar .so .h可供 Android使用
 
+    >  **Note:**  .so檔案放置於 armeabi-v7a底下, ex: MyApplication13\app\src\main\jniLibs\armeabi-v7a\libHelloTestFromNDKBuild.so
 
 
 # 參考
+
+cgo教學
+
 - https://blog.golang.org/c-go-cgo
 - https://golang.org/cmd/cgo/#hdr-Go_references_to_C
 - https://github.com/golang/go/wiki/cgo
 - http://lib.csdn.net/article/go/33766
 - https://stackoverflow.com/questions/37157379/passing-function-pointer-to-the-c-code-using-cgo
+
+android匯入 .aar檔案
+
+- http://rx1226.pixnet.net/blog/post/336973520-%5Bandroid%5D-2-25-%E5%8A%A0%E5%85%A5aar%E6%AA%94
