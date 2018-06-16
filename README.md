@@ -1,5 +1,5 @@
 # Golang筆記
-把學習 Golang遇到的問題進行紀錄。
+ 把學習 Golang遇到的問題進行紀錄。
 
 # 常見問題
  - [資料排序問題(sort)](https://github.com/lya79/Learning_Golang/tree/master/SortData)
@@ -13,8 +13,10 @@
  - 程式運行 log紀錄
  - List、Heap、Map、Set
  - 檔案讀寫
- - JSON
+ - JSON與 struct轉換
  - 程式運行的效率
+ - [實現 callback](https://github.com/lya79/Learning_Golang/tree/master/golangCallback)
+ - Golang撰寫規範
 
 # 設計模式(Design Pattern)
  - [簡單工廠法(Simple Factory)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/SimpleFactory)
