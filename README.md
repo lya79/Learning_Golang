@@ -8,7 +8,7 @@
  - 考慮到字串處理時的效率問題
  - 映射、型別判斷
  - 例外處理方式
- - [Goroutine/Mutex相關問題](https://github.com/lya79/Learning_Golang/tree/master/Goroutine%E7%9B%B8%E9%97%9C%E5%95%8F%E9%A1%8C)
+ - [Goroutine相關問題](https://github.com/lya79/Learning_Golang/tree/master/Goroutine%E7%9B%B8%E9%97%9C%E5%95%8F%E9%A1%8C)
  - 單元測試
  - 程式運行 log紀錄
  - List、Heap、Map、Set
@@ -20,9 +20,10 @@
  - [簡單工廠法(Simple Factory)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/SimpleFactory)
 
 # 通訊
- - NATS使用
- - CoAP使用
- - RPC使用
+ - NATS
+ - CoAP
+ - RPC
+ - FTP
 
 # 函式庫調用
  - [包裝 aar/Android調用 .aar](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
