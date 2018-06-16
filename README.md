@@ -25,17 +25,26 @@
  - RPC使用
 
 # 函式庫調用
-- [包裝 aar/Android調用 .aar](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
-- [包裝 .so/調用 .so](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
-- [c callback golang, golang在 callback android](https://github.com/lya79/Learning_Golang/tree/master/callbackAndroidGoCFunc)
-- [c與 golang型態轉換問題](http://colobu.com/2016/06/30/dive-into-go-10/)
-- java與 golang型態轉換問題
+ - [包裝 aar/Android調用 .aar](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
+ - [包裝 .so/調用 .so](https://github.com/lya79/Learning_Golang/tree/master/TestNdkBuildStatic)
+ - [c callback golang, golang在 callback android](https://github.com/lya79/Learning_Golang/tree/master/callbackAndroidGoCFunc)
+ - [c與 golang型態轉換問題](http://colobu.com/2016/06/30/dive-into-go-10/)
+ - java與 golang型態轉換問題
 
 # 資料庫
  - SQLite使用
 
+# 資料結構
+ - 單向鏈結串列
+
 # 經典案例
- - [生產者消費者問題(Producer-consumer problem, Bounded-buffer problem)](https://github.com/lya79/Learning_Golang/tree/master/other/ProducerConsumerProblem) 
+ - [生產者消費者問題(Producer-consumer problem, Bounded-buffer problem)](https://github.com/lya79/Learning_Golang/tree/master/other/ProducerConsumerProblem)
+ - 哲學家就餐問題(Dining philosophers problem)
+ - 理髮師問題(Sleeping-Barber Problem)
+ - 八皇后問題(Eight Queens Puzzle)
+
+# 其他
+ - [字串檢查](https://github.com/lya79/Learning_Golang/tree/master/checkContent)
  <!-- 
 defer與 return的順序
 ‍‍https://blog.csdn.net/samxx8/article/details/64442637
