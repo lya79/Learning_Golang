@@ -16,8 +16,8 @@
  - JSON
  - 程式運行的效率
 
-# 設計模式
- - 常見設計模式
+# 設計模式(Design Pattern)
+ - [簡單工廠法(Simple Factory)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/SimpleFactory)
 
 # 通訊
  - NATS使用
@@ -32,3 +32,12 @@
 - java與 golang型態轉換問題
 # 資料庫
  - SQLite使用
+
+ <!-- 
+defer與 return的順序
+‍‍https://blog.csdn.net/samxx8/article/details/64442637
+defer、return、返回值三者的执行顺序应该是：
+1.return最先给返回值赋值；
+2.接着defer开始执行一些收尾工作；
+3.最后RET指令携带返回值退出函数。 
+-->
