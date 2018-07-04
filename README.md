@@ -20,6 +20,7 @@
 
 # 設計模式(Design Pattern)
  - [簡單工廠法(Simple Factory)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/SimpleFactory)
+ - [單例模式(Singleton)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/singleton)
 
 # 通訊
  - NATS
