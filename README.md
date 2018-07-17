@@ -19,7 +19,8 @@
  - Golang撰寫規範
 
 # 設計模式(Design Pattern)
- - [簡單工廠法(Simple Factory)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/SimpleFactory)
+ - [簡單工廠模式(Simple Factory)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/SimpleFactory)
+ - [建造者模式(builder)](https://github.com/lya79/Learning_Golang/blob/master/designPattern/builder/main.go)
  - [單例模式(Singleton)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/singleton)
 
 # 通訊
