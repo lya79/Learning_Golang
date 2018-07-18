@@ -20,8 +20,13 @@
 
 # 設計模式(Design Pattern)
  - [簡單工廠模式(Simple Factory)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/SimpleFactory)
- - [建造者模式(builder)](https://github.com/lya79/Learning_Golang/blob/master/designPattern/builder/main.go)
+>創建類型, 
+ - [建造者模式(Builder)](https://github.com/lya79/Learning_Golang/blob/master/designPattern/builder/main.go)
+>創建類型, 
  - [單例模式(Singleton)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/singleton)
+>創建類型, 
+ - [觀察者模式(Observer)](https://github.com/lya79/Learning_Golang/blob/master/designPattern/observer/main.go)
+>行為類型, 
 
 # 通訊
  - NATS
