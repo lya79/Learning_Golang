@@ -25,6 +25,8 @@
 >創建類型, 
  - [單例模式(Singleton)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/singleton)
 >創建類型, 
+ - [原型模式(Prototype)](https://github.com/lya79/Learning_Golang/blob/master/designPattern/prototype/main.go)
+>創建類型, 
  - [觀察者模式(Observer)](https://github.com/lya79/Learning_Golang/blob/master/designPattern/observer/main.go)
 >行為類型, 
 
