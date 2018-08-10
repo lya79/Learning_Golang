@@ -24,6 +24,8 @@
 >創建類型, 
  - [觀察者模式(Observer)](https://github.com/lya79/Learning_Golang/blob/master/designPattern/observer/main.go)
 >行為類型, 
+ - [命令模式(Command)](https://github.com/lya79/Learning_Golang/tree/master/designPattern/command)
+>行為類型, 
 
 # 資料結構
  - 單向鏈結串列
